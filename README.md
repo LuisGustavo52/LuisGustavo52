@@ -1,11 +1,12 @@
 
-<!--- <img align="center" style="margin-bottom:100px" width=100% src="https://github.com/LuisGustavo52/LuisGustavo52/assets/97697928/9acbb44e-98f8-4f83-82f7-c19408c161cd" />
+<img align="center" style="margin-bottom:100px" width=100% src="https://github.com/LuisGustavo52/LuisGustavo52/blob/main/GitHub-header.png" />
 &nbsp;&nbsp;&nbsp;
-
+<!--
 <p align="center">I ❤️ solve great challenges using tech. <br><br> From backend development using Flask to frontend development using ReactTS, I am <strong>passionate to discover new stuffs</strong> and use them to create high quality solutions. Today, I'm a <strong>full stack mid-level developer</strong> focused on web development.</p>&nbsp;
 --->
 <!---<div  align="center" style="margin-bottom:100px"> --->
 <!---<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=LuisGustavo52&theme=radical&mode=weekly" />--->
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/?username=LuisGustavo52\&rank_icon=github\&show_icons=true\&hide=stars,issues\&title_color=fff\&icon_color=79ff97\&text_color=9f9f9f\&bg_color=151515)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuisGustavo52&hide_progress=true&hide_progress=true&title_color=fff\&icon_color=79ff97\&text_color=9f9f9f\&bg_color=151515\&layout=compact)
 
