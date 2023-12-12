@@ -1,9 +1,9 @@
 
 <img align="center" style="margin-bottom:100px" width=100% src="https://github.com/LuisGustavo52/LuisGustavo52/blob/main/GitHub-header.png" />
 &nbsp;&nbsp;&nbsp;
-<!--
-<p align="center">I ❤️ solve great challenges using tech. <br><br> From backend development using Flask to frontend development using ReactTS, I am <strong>passionate to discover new stuffs</strong> and use them to create high quality solutions. Today, I'm a <strong>full stack mid-level developer</strong> focused on web development.</p>&nbsp;
---->
+
+<p align="center"> 🚀Exploring new resources and technologies in development realm.🚀<br><br> I enjoy working on back-end development and <strong>resolve problems using logical thinking.</strong> Today, I'm <strong>student seeking opportunities for a junior/trainee/internship position.</p>&nbsp;
+
 <!---<div  align="center" style="margin-bottom:100px"> --->
 <!---<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=LuisGustavo52&theme=radical&mode=weekly" />--->
 
