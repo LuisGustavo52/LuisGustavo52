@@ -55,6 +55,9 @@
 &nbsp;
 &nbsp;
 --->
+
+![Snake animation](https://github.com/LuisGustaov52/LuisGustaov52/blob/output/github-contribution-grid-snake-dark.svg)
+
 ## Contacts:
 
 <div> 
