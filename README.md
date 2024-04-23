@@ -17,7 +17,6 @@
 
  ![Snake animation](https://github.com/LuisGustavo52/LuisGustavo52/blob/output/github-contribution-grid-snake-dark.svg)
 
-<!-
 ## My Skills
 
 #### Main Skills:
